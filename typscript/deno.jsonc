@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    // override deno default configuraion (tsconfig/bases/strictest.json)
+    // (deno: v1.29.2)
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+
+    // additional configuration from tsconfig/bases/strictest.json
+    "exactOptionalPropertyTypes": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true
+  }
+}

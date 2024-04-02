@@ -1,0 +1,21 @@
+- color: 0052cc
+  name: feature
+  description: New feature or request
+- color: 7057ff
+  name: enhancement
+  description: Improvements to existing features
+- color: d73a4a
+  name: bug
+  description: Something isn't working
+- color: 5319e7
+  name: documentation
+  description: Improvements or additions to documentation
+- color: 6a737d
+  name: chore
+  description: Maintenance tasks
+- color: e7b77d
+  name: dependencies
+  description: Updates to dependencies
+- color: 24292e
+  name: refactor
+  description: Code refactoring
